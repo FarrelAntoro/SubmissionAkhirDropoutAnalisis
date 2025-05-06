@@ -1,3 +1,17 @@
+# Halaman Utama
+st.title("🎓 Jaya Jaya Institut - Prediksi Dropout")
+st.markdown("""
+Selamat datang di sistem prediksi dropout **Jaya Jaya Institut**.  
+Gunakan panel di sebelah kiri untuk memasukkan data siswa dan lakukan prediksi.
+""")
+
+st.subheader("📌 Cara Kerja Sistem:")
+st.write("""
+- Isi data siswa pada sidebar  
+- Klik tombol **Prediksi**  
+- Hasil prediksi akan tampil di halaman ini
+""")
+
 # 🎈 Blank app template
 
 A simple Streamlit app template for you to modify!
